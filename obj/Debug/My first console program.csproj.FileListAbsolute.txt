@@ -1,0 +1,16 @@
+C:\Users\nitro\source\repos\My first console program\obj\Debug\My first console program.csproj.AssemblyReference.cache
+C:\Users\nitro\source\repos\My first console program\obj\Debug\My first console program.csproj.SuggestedBindingRedirects.cache
+C:\Users\nitro\source\repos\My first console program\obj\Debug\My first console program.csproj.CoreCompileInputs.cache
+C:\Users\nitro\source\repos\My first console program\bin\Debug\My first console program.exe.config
+C:\Users\nitro\source\repos\My first console program\bin\Debug\My first console program.exe
+C:\Users\nitro\source\repos\My first console program\bin\Debug\My first console program.pdb
+C:\Users\nitro\source\repos\My first console program\obj\Debug\My first console program.exe
+C:\Users\nitro\source\repos\My first console program\obj\Debug\My first console program.pdb
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\bin\Debug\My first console program.exe.config
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\bin\Debug\My first console program.exe
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\bin\Debug\My first console program.pdb
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\obj\Debug\My first console program.csproj.AssemblyReference.cache
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\obj\Debug\My first console program.csproj.SuggestedBindingRedirects.cache
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\obj\Debug\My first console program.csproj.CoreCompileInputs.cache
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\obj\Debug\My first console program.exe
+D:\4- Documentos\Universidad\1er cuatrimestre\Programacion\Programas\21-sisn-1-008\obj\Debug\My first console program.pdb
